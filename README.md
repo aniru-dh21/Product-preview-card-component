@@ -2,6 +2,8 @@
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
+Live Solution: [Product-preview-card-component](https://aniru-dh21.github.io/Product-preview-card-component/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
